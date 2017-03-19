@@ -1,0 +1,6 @@
+framework module Pods_Pokeman_Go_Finder {
+  umbrella header "Pods-Pokeman Go Finder-umbrella.h"
+
+  export *
+  module * { export * }
+}
