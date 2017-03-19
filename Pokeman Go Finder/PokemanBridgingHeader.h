@@ -6,8 +6,4 @@
 //  Copyright © 2017 Afzal Hossain. All rights reserved.
 //
 
-#ifndef PokemanBridgingHeader_h
-#define PokemanBridgingHeader_h
-
-
-#endif /* PokemanBridgingHeader_h */
+#import "GeoFire.h"
